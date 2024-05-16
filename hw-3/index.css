@@ -1,0 +1,23 @@
+.block-1 {
+  background: #a459af;
+  width: 50vw;
+  height: 150px;
+  max-width: 300px;
+}
+
+.parent {
+  width: 1500px;
+}
+
+.child {
+  background: #f9a8d4;
+  height: 10vh;
+  min-width: 200px;
+  width: 50%;
+}
+
+.video-1 {
+  width: fit-content;
+  max-height: 200px;
+  height: 30vh;
+}
