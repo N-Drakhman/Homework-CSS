@@ -1,0 +1,14 @@
+p {
+  color: purple;
+  letter-spacing: 5px;
+  line-height: 8px;
+}
+
+h1 {
+  text-align: center;
+  text-transform: uppercase;
+}
+
+h2 {
+  font-size: smaller;
+}
