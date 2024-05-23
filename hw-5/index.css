@@ -1,0 +1,23 @@
+.green {
+  background-color: green;
+  width: 200px;
+  height: 100px;
+}
+
+.right {
+  margin-left: auto;
+}
+
+.center {
+  margin: auto;
+}
+
+.left {
+  padding: 20px 40px;
+}
+
+#red {
+  width: 100px;
+  height: 60px;
+  background-color: red;
+}
