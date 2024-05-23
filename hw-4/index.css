@@ -1,0 +1,26 @@
+.card {
+  width: 810px;
+  height: 460px;
+  background-color: #eadbc8;
+  background-image: url("https://sportishka.com/uploads/posts/2022-11/1667489552_20-sportishka-com-p-tesla-mashina-instagram-22.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.back {
+  width: 100vw;
+  height: 60vw;
+  background-image: url("https://pnggallery.com/wp-content/uploads/tesla-03.png");
+  background-size: 120px;
+  background-repeat: no-repeat;
+}
+
+.about {
+  width: 810px;
+  height: 20vh;
+  background-color: #f1f1f1;
+  background-image: url("https://logo-marque.com/wp-content/uploads/2020/11/Tesla-Embleme.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+}
