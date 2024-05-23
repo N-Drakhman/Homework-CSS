@@ -1,0 +1,27 @@
+p{
+    font-weight: bold;
+    font-style: italic;
+    color: #750763;
+}
+
+h2{
+    color: rgb(0, 0, 150);
+    letter-spacing: 10px;
+}
+
+span{
+    text-decoration: underline;
+    color:blueviolet;
+}
+
+h4{
+    text-align: center;
+    word-spacing: 25px;
+    color:#BAF866;
+}
+
+div{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: right;
+    color:#02ABDD;
+}
