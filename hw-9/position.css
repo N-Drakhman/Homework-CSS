@@ -1,0 +1,45 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.block {
+  height: 100px;
+  width: 100vw;
+  background-color: green;
+  font-size: 24px;
+  font-weight: bold;
+  padding: 35px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.main {
+  height: 2000px;
+  background-color: rgba(0, 0, 0, 0);
+}
+
+.block:nth-child(1) {
+  position: fixed;
+  overflow: auto;
+  top: 0;
+}
+
+.block:nth-child(2) {
+  position: sticky;
+  overflow: auto;
+  top: 100px;
+  margin-top: 700px;
+}
+
+.block:nth-child(3) {
+  position: sticky;
+  overflow: auto;
+  top: 200px;
+  margin-top: 1000px;
+}
+
+.block:nth-child(4) {
+  position: fixed;
+  bottom: 0;
+}
